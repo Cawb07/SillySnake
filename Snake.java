@@ -16,6 +16,7 @@ public class Snake extends JFrame{
 		setVisible(true);
 	}
 	
+	////////////// MAIN HERE ////////////
 	public static void main(String[] args) {
 		new Snake();
 	}

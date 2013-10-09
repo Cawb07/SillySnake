@@ -1,5 +1,7 @@
 package snakev2;
 
+// Main is in Snake.java!
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.FontMetrics;
